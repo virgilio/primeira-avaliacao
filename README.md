@@ -1,5 +1,5 @@
-# EM ANDAMENTO -- forkei o repositório para enviar o link e evitar perder as respostas do formulário! =)
-# Até amanhã cedo, entrego
+# Para rodar:
+$ ruby run_pa.rb
 
 # Primeira Avaliação
 
